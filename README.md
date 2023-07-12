@@ -2,7 +2,8 @@
 
 포트폴리오 PDF파일 다운
 
-[https://drive.google.com/file/d/1LkKt1cnQt6l-dQaqmDTdqiEE3drCJ6TT/view?usp=sharing](https://drive.google.com/file/d/1YmETSpLH3EQDSjLmHADhfRd8oQOViNj6/view?usp=sharing)
+https://drive.google.com/file/d/1WXGTbMnLnNHvTQNskdBhVUZgTZy1hMOR/view?usp=sharing
+
 
 ## 일상 챌린지 등록 플랫폼  **2022.06.03 ~ 2022.07.24(2개월)**
 
