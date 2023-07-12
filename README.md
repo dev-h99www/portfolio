@@ -18,7 +18,8 @@ GithubLink : https://github.com/dev-h99www/dduckleaf
 
 산출물 : https://feline-book-dd9.notion.site/15854a223bb34db5b676857ecbfc970e?pvs=4
 
-요약 : https://app.gitbook.com/s/aiSivovkuriEwf1ibwYZ/undefined-1/undefined-1
+요약 : https://max-hong.gitbook.io/projects/undefined-1/undefined-1
+       
 
 
 펀딩 관리
@@ -41,4 +42,4 @@ GithubLink : https://github.com/dev-h99www/waterfall
 
 산출물 : https://feline-book-dd9.notion.site/15854a223bb34db5b676857ecbfc970e?pvs=4
 
-요약 : https://app.gitbook.com/s/aiSivovkuriEwf1ibwYZ/undefined-1/undefined-2
+요약 : https://max-hong.gitbook.io/projects/undefined-1/undefined-2
