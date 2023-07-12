@@ -58,6 +58,16 @@ Pull requests
 
 GithubLink : https://github.com/dev-h99www/waterfall
 
+프로젝트 관리 및 프로젝트 인원관리
+ - waterfall/src/main/java/com/greedy/waterfall/project
+
+회의록 게시판 (Meeting)
+ - waterfall/src/main/java/com/greedy/waterfall/board
+
+프로젝트 메인 페이지
+ - waterfall/src/main/java/com/greedy/waterfall/menu
+
+
 산출물 : https://feline-book-dd9.notion.site/15854a223bb34db5b676857ecbfc970e?pvs=4
 
 요약 : https://max-hong.gitbook.io/projects/undefined-1/undefined-2
